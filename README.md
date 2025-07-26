@@ -1,5 +1,5 @@
 # Design Championship 2024 - Project by Aarush Mehta
-### Note:- The Project has more folders and files but cannot be attached due to some reasons
+### Note:- The Project has more folders and files but have not been attached due to some reasons
 
 ## About the Project
 
